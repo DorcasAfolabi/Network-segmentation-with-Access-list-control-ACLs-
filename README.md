@@ -19,3 +19,5 @@ This implementation enhanced the security posture of the network by ensuring pri
 ### . PCs
 ### .Laptop
 
+
+See below the report [Catnork technologies](https://github.com/DorcasAfolabi/Network-segmentation-with-Access-list-control-ACLs-/blob/main/Network%20segmentation%20with%20ACLs%20(Catnork%20technologies%20case%20study).pdf)
